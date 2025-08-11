@@ -30,7 +30,7 @@ This project follows a systematic analytical pipeline using Python scripts and n
 | `src/gif_generator.py`             | Generates an animated GIF to visualize monthly climate changes on a map. |
 | `notebooks/climate_data_analysis.ipynb` | Exploratory data analysis with static plots for climate data.    |
 | `notebooks/crop_climate.ipynb`    | Financial impact analysis notebook, mapping crop profits/losses to seasons and years. |
-| `data/` (assumed)                  | Contains raw CSV and GeoJSON data files used in analysis.        |
+| `data/`                 | Contains raw CSV and GeoJSON data files used in analysis.        |
 
 ---
 
@@ -80,7 +80,3 @@ This project follows a systematic analytical pipeline using Python scripts and n
 - **Pillow:** Image processing and GIF generation  
 
 ---
-
-## License
-
-*(Add your license info here, if applicable)*
