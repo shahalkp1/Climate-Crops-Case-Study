@@ -2,6 +2,9 @@
 
 This repository contains a comprehensive case study analyzing climate resiliency for agricultural production in the Indian states of **Maharashtra (MH)** and **Madhya Pradesh (MP)**. Using historical climate and remote sensing data, this project evaluates crop performance, assesses economic impacts, and proposes evidence-based recommendations to enhance agricultural resilience.
 
+A detailed project presentation is available [here](https://docs.google.com/presentation/d/19iMewfU2JwAaToTk8Sa-QxGCWAXy3M05LJs7vHJ9qC8/edit?slide=id.g37616b1d3cb_0_163#slide=id.g37616b1d3cb_0_163).
+
+
 
 ## Methodology and Key Analysis
 
